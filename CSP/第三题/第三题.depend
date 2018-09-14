@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535354861 source:d:\course\c++andc\csp认证\第三题\main.cpp
+	<iostream>
+	<ctype.h>
+
